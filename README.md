@@ -1,1 +1,1 @@
-# conky
+# Conky cofiguration wayland
